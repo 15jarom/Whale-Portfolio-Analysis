@@ -1,4 +1,4 @@
-# Whale-Portfolio-Analysis
+# Whale-Portfolio-Analysis - Homework 3
 
 For my Portfolio additions I chose to go with 3 ETFs that represent some new technologies at the time (2015) and see if investing into those would have yielded good returns. 
 
